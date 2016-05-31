@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="32" tileheight="32" nextobjectid="9">
+ <tileset firstgid="1" name="interior" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="../../Downloads/interior.png" width="512" height="512"/>
+  <tile id="3">
+   <objectgroup draworder="index">
+    <object id="1" x="32" y="0" width="1" height="32" rotation="90"/>
+   </objectgroup>
+  </tile>
+  <tile id="12">
+   <objectgroup draworder="index">
+    <object id="1" x="0.968253" y="31.8954">
+     <polyline points="0,0 -0.911297,0 -0.854341,-3.98692 0.056956,-3.92997 0.113912,-20.9598 0.968253,-20.9029 0.911297,-21.9281 0.113912,-21.9281 0.056956,-26.9402 2.96171,-26.8263 3.01867,-26.0289 5.01213,-25.858 5.06909,-26.8833 6.94864,-26.7693 6.94864,-27.9085 8.99905,-27.9085 9.11297,-28.8198 21.8142,-28.9337 21.8711,-27.9654 25.0607,-27.9085 25.0607,-26.7693 30.8702,-26.7124 30.9841,0 29.1615,-0.056956"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="18">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="1" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="20">
+   <objectgroup draworder="index">
+    <object id="1" x="30.9967" y="0" width="1" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="28">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="34">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="7" height="32"/>
+    <object id="2" x="0" y="19" width="32" height="13"/>
+   </objectgroup>
+  </tile>
+  <tile id="67">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="20"/>
+   </objectgroup>
+  </tile>
+  <tile id="70">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="26"/>
+   </objectgroup>
+  </tile>
+  <tile id="134">
+   <objectgroup draworder="index">
+    <object id="2" x="3" y="2" width="27" height="30"/>
+    <object id="3" x="14.6377" y="13.4416" width="0.113912"/>
+   </objectgroup>
+  </tile>
+  <tile id="150">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="8" width="32" height="24"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="257" name="preview" tilewidth="32" tileheight="32" margin="5" tilecount="672" columns="32">
+  <image source="../../Downloads/preview.png" width="1040" height="704"/>
+  <tile id="441">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="443">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="444">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="445">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="446">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="473">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="31.8954"/>
+   </objectgroup>
+  </tile>
+  <tile id="475">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="476">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="477">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="478">
+   <objectgroup draworder="index">
+    <object id="1" x="0.0616037" y="0.0616037" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="black tiles" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKEL8f2zLsdAwVVTVfXVA+SGMNU=
+  </data>
+ </layer>
+ <layer name="map" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF5AAlIFahAlbEY4coyB5GBgYJJvKxJBALE7DDFKjGggJsOUjsMKQCHrVj1I5RO3BjZQbcZRe17NgFzOv7gHg/ljxPLTtuAc2+B8T3h7gd+OIfZIcIje0QAmIWKmNBhlFACgAAhqZFvg==
+  </data>
+ </layer>
+ <layer name="furniture" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowACJClgj4JRMFyBCRUwIeBCBTwKCIN2OtgxnQ52jIJRAAMAy4gJlA==
+  </data>
+ </layer>
+ <layer name="items" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMBiABAXs4QI4iVTHS4EdHECsTYQ6WQrsGAWjgB4AABW1AN8=
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="1" name="exit" x="127.389" y="641.008" width="31.1695" height="28.4591"/>
+  <object id="2" name="arrow1" x="193.793" y="477.029" width="27.1039" height="21.6832"/>
+  <object id="3" name="arrow2" x="292.723" y="475.674" width="27.1039" height="23.0384"/>
+  <object id="4" name="arrow3" x="386.231" y="474.319" width="25.7487" height="23.0384"/>
+  <object id="5" name="arrow4" x="483.805" y="475.674" width="25.7487" height="23.0384"/>
+  <object id="6" name="spear" x="580.024" y="474.319" width="27.1039" height="21.6832"/>
+  <object id="7" name="melle" x="707.413" y="607.128" width="25.7487" height="17.6176"/>
+ </objectgroup>
+</map>

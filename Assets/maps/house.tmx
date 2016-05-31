@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" nextobjectid="3">
+ <tileset firstgid="1" name="interior" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="../../Downloads/interior.png" width="512" height="512"/>
+  <tile id="3">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="1"/>
+   </objectgroup>
+  </tile>
+  <tile id="14">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="2.96171" width="32" height="29"/>
+   </objectgroup>
+  </tile>
+  <tile id="18">
+   <objectgroup draworder="index">
+    <object id="1" x="1" y="0" width="32" height="1" rotation="90"/>
+   </objectgroup>
+  </tile>
+  <tile id="20">
+   <objectgroup draworder="index">
+    <object id="1" x="32" y="0" width="32" height="1" rotation="90"/>
+   </objectgroup>
+  </tile>
+  <tile id="30">
+   <objectgroup draworder="index">
+    <object id="1" x="1" y="0" width="30" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="35">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="31" width="32" height="1"/>
+   </objectgroup>
+  </tile>
+  <tile id="43">
+   <objectgroup draworder="index">
+    <object id="1" x="11" y="16.0046" width="10" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="44">
+   <objectgroup draworder="index">
+    <object id="1" x="11" y="16.0046" width="10" height="16.0046"/>
+   </objectgroup>
+  </tile>
+  <tile id="45">
+   <objectgroup draworder="index">
+    <object id="3" x="0.056956" y="3.01867" width="31.8954" height="28.9337"/>
+    <object id="6" x="1.99346" y="2.79085">
+     <polyline points="0,0 0.056956,-0.797385 2.05042,-0.740429 2.05042,-1.70868 3.98692,-1.76564 4.04388,-2.79085 24.0354,-2.73389 24.0354,-1.65173 25.972,-1.70868 26.0289,-0.740429 27.9654,-0.797385 27.9654,0.113912"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="46">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="29"/>
+   </objectgroup>
+  </tile>
+  <tile id="58">
+   <objectgroup draworder="index">
+    <object id="1" x="0.00464761" y="0.0686149" width="32" height="29"/>
+   </objectgroup>
+  </tile>
+  <tile id="59">
+   <objectgroup draworder="index">
+    <object id="1" x="11" y="0" width="10" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="60">
+   <objectgroup draworder="index">
+    <object id="1" x="11" y="16.0046" width="10" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="66">
+   <objectgroup draworder="index">
+    <object id="1" x="-0.05" y="0" width="32" height="20"/>
+   </objectgroup>
+  </tile>
+  <tile id="67">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="20"/>
+   </objectgroup>
+  </tile>
+  <tile id="68">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="20"/>
+   </objectgroup>
+  </tile>
+  <tile id="70">
+   <objectgroup draworder="index">
+    <object id="2" x="0" y="0" width="32" height="26"/>
+   </objectgroup>
+  </tile>
+  <tile id="74">
+   <objectgroup draworder="index">
+    <object id="2" x="11" y="16" width="10" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="75">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="76">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="19"/>
+   </objectgroup>
+  </tile>
+  <tile id="90">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="91">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="107">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="9"/>
+   </objectgroup>
+  </tile>
+  <tile id="112">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="113">
+   <objectgroup draworder="index">
+    <object id="1" x="0.0616037" y="0.0616037" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="114">
+   <objectgroup draworder="index">
+    <object id="1" x="0.0616037" y="0.0616037" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="122">
+   <objectgroup draworder="index">
+    <object id="1" x="10.057" y="2" width="12" height="30"/>
+    <object id="8" x="10.9925" y="1.82259">
+     <polyline points="0,0 0,-0.740429 1.99346,-0.740429 1.99346,-1.76564 8.0308,-1.76564 7.91689,-0.797385 10.0812,-0.797385 10.0812,0.113912"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="123">
+   <objectgroup draworder="index">
+    <object id="1" x="10.0812" y="-2.22045e-16" width="12" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="132">
+   <objectgroup draworder="index">
+    <object id="1" x="0.00464761" y="8" width="32" height="24"/>
+   </objectgroup>
+  </tile>
+  <tile id="133">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="8" width="32" height="24"/>
+   </objectgroup>
+  </tile>
+  <tile id="137">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="13" width="32" height="19"/>
+    <object id="4" x="10" y="0" width="12.0747" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="138">
+   <objectgroup draworder="index">
+    <object id="1" x="10" y="0" width="12" height="32"/>
+    <object id="4" x="0" y="13" width="32" height="19"/>
+   </objectgroup>
+  </tile>
+  <tile id="139">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="27"/>
+   </objectgroup>
+  </tile>
+  <tile id="140">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="27"/>
+   </objectgroup>
+  </tile>
+  <tile id="144">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="145">
+   <objectgroup draworder="index">
+    <object id="1" x="3" y="0" width="29" height="23"/>
+   </objectgroup>
+  </tile>
+  <tile id="146">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="29" height="23"/>
+   </objectgroup>
+  </tile>
+  <tile id="148">
+   <objectgroup draworder="index">
+    <object id="4" x="0" y="8.0308" width="32" height="24"/>
+   </objectgroup>
+  </tile>
+  <tile id="150">
+   <objectgroup draworder="index">
+    <object id="1" x="0.0616037" y="0.0616037" width="32" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="154">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="27"/>
+   </objectgroup>
+  </tile>
+  <tile id="155">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="32" height="27"/>
+   </objectgroup>
+  </tile>
+  <tile id="192">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="7" width="32" height="23"/>
+    <object id="2" x="1.02521" y="6.83472">
+     <polyline points="0,0 0,-1.76564 1.02521,-1.76564 1.02521,-2.90476 3.01867,-2.90476 2.96171,-3.81605 3.98692,-3.81605 3.98692,-4.84126 4.95518,-4.84126 4.95518,-5.75256 6.94864,-5.80952 8.88514,-5.86647 8.9421,-6.77777 30.9841,-6.77777 30.9271,0.113912"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="193">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="8" width="32" height="22"/>
+    <object id="2" x="30.9841" y="7.80298">
+     <polyline points="0,0 0,-2.73389 -2.05042,-2.79085 -2.05042,-3.7591 -3.01867,-3.81605 -3.01867,-4.78431 -3.98692,-4.72735 -3.98692,-5.75256 -4.89822,-5.75256 -4.89822,-6.72081 -6.94864,-6.77777 -7.00559,-7.74602 -31.041,-7.80298 -30.9841,0.113912"/>
+    </object>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="257" name="preview" tilewidth="32" tileheight="32" tilecount="704" columns="32">
+  <image source="../../Downloads/preview.png" width="1040" height="704"/>
+ </tileset>
+ <tileset firstgid="961" name="preview" tilewidth="32" tileheight="32" margin="5" tilecount="672" columns="32">
+  <image source="../../Downloads/preview.png" width="1040" height="704"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1TsOgkAURuEbGBoLFR0W4GsB7r9hLYCswz9kSCg0WIwOklN8mUsFB5KLNzMPAAAAAEjqLNdITgk7Kmlys1Y6eQTT60/mXo4JO3TvOnNmuTgpZCu74NU8Pcd574Z3UtNBx9hx1xkDHd/v0BqyYgUdF7n9QYefebYm/BuW3jH3PTZhF9FBR8yOtexdOn7rIC6SMlEDAAAAALzzBB6W/FY=
+  </data>
+ </layer>
+ <layer name="furniture" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1T0OAUEYxvEtqbRULiAcgF7jEqh8NKiUCBIqRBRaF+AGnMw7yRSTsZbY2dls/H/Jk8nMm02eaWaDAAAAAAAAhMnpNa/XkjG76LVonPUk06RLedCXDNIuYWnrdIzMrL2ZrmQr2UjWkrlk4b31q5HO2MjO2puZSM46J8lecvDeGllXSbuAA+odbqRdwgH1X8nKPQoRM/WufnOPuqMucZQjZupdbYWcH619012dn9U+zIchZ0vJKoEucVRjfHuV3FwV8eDdXe+Sh88iAAAAAPCHnlPYG7k=
+  </data>
+ </layer>
+ <layer name="items" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzkERAAAEADA5nP45pcDDlmARAAAAAAAAs+o6sCivAwAAAI81HkUANw==
+  </data>
+ </layer>
+ <objectgroup name="door">
+  <object id="1" x="696" y="830.667" width="10.6667" height="34.6667"/>
+ </objectgroup>
+</map>

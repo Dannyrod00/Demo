@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="50" tilewidth="16" tileheight="16" nextobjectid="3">
+ <tileset firstgid="1" name="beastlands" tilewidth="16" tileheight="16" tilecount="2006" columns="59">
+  <image source="Demo1/Assets/Sprites/beastlands.png" width="944" height="544"/>
+  <tile id="1449">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="16" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="1462">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="16" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="1463">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="16" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="1464">
+   <objectgroup draworder="index">
+    <object id="1" x="0.0588235" y="0.0588235" width="16" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="1566">
+   <objectgroup draworder="index">
+    <object id="1" x="0.0588235" y="0.0588235" width="16" height="16"/>
+   </objectgroup>
+  </tile>
+  <tile id="1698">
+   <objectgroup draworder="index">
+    <object id="1" x="0" y="0" width="16" height="16"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2TdQFFEcx/G9k6M0zailEXNnBoUSFVBQKwNZ6cygYKcCBtTWrIyNWmipFuZsa5pROjFhDoVZvzfcyttl0x3iewvvzXxG53b/y/L7+XZHyE0zjNxe5li6umRno/vQfcjOXPeh+1CZ7Mx1H7oPlcnOXPeh+1CZ7Mx1H7oPlcnOXPeh+1CZ7Mx1H7oPlcnOXPeh+1CZ7Mx1H7oPlcnOXPeRWh8ZGI0xGItmh8/C2kexYRglKEUZylGBSkPdPkpRhnJUoCXkfewl633YLziAgziEwzhiO34Uzd3cUW/t4y653sN9wQM8RGbUMLLwyHb8MVoU6SPD1knYn1d9I4bRD/0FAzAQ1XRRg0G244MxJKJGH6W2PloSHYjC1EfcXLLNE+SjANl0kYNC2/Gibu4imT6GBiCrj9mYE88XechHAeZhPgpRhAVYiEWJuXrybRA0JtTSRV20/e/i8SZbH27X97pX+4z93fSvM/zffWzGFmyN54sGNGIbtmMHdqIJu7Abe4Q+zA7MPdEYsRI/t/eR63J9v3sWZ+zvJtmZd7WP87iAi7iEy7iCq7iG67iBm7iF27jj0Ie4JxpdPnfqw+n6fvcsztjfTbIz72ofX/AV3/AdP/ATv/AbRswwIoiiD9JiHbP1kc75e3Hqw+v6bsSZU3R9Oto+m8z7Q9U+JvF9TMYUTMU0TMcMZCILMzEL2cgJ0Mdx8jnhsFec+vC6vhtx5iVfpy3aPtsT+ljJ97EKq7EGa7EO61GNGmzARtSiLmFTzL2PJ+TT6tKHOWv+6XR9+z16zfx9Loagj5Ox8DqDsziX5JzszL20cn9P8QzP8SK+v9GGV3iNN3iLd3iPDwlu57TGkr+u3/lOxz/iEz57zDh9LjtzL/H/0wzDcIzASIxK7/xzgXEYjwmYmODVl3ndoL343YfT8fhr2+Q24/S57My9LMYSLMUyFHdhz4h9mdcN2rfTfZSkd/y8wum42IffTFj2SXzZ8091z7j1FqRfv3P89kfQGdX3Sap7oYLZSizHClR59BakX79z/PaH30xY9keqe6HKJSPzeZFqz27PK/N3EOK/Ab/nlTgTlv3h99x2yqEqwLmp9hzkHHOJfSSzZGfupbtWqj0HOcdcug+1lu5DraX76BlLdua6D+uSnbnuw7pkZ677sC7Zmes+rEt25roP65Kdue7DumRnrvuwLtmZe/kDBlJZKA==
+  </data>
+ </layer>
+ <objectgroup name="trigger-entities">
+  <object id="1" name="levelTrigger" x="176" y="465" width="32" height="32">
+   <properties>
+    <property name="room" value="room1"/>
+   </properties>
+  </object>
+  <object id="2" name="Ladder" x="1200" y="352" width="16" height="31.3333"/>
+ </objectgroup>
+</map>

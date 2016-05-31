@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="sewer_1" tilewidth="16" tileheight="16" tilecount="352" columns="16">
+  <image source="../../Downloads/sewer_1.png" width="256" height="352"/>
+ </tileset>
+ <tileset firstgid="353" name="New Piskel (3)" tilewidth="16" tileheight="16" tilecount="4" columns="2">
+  <image source="../../Downloads/New Piskel (3).png" width="32" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJyTYWBgkBnFo3gUk4yFaGy2EI3tGMWjeBSP4lE8tDEAdTdENQ==
+  </data>
+ </layer>
+ <layer name="water" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKGr/s2XY6Dgqqmq+uoBpqQ7AQ==
+  </data>
+ </layer>
+ <layer name="wall" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJwzZGBgMKQhNqKx+ch2gGhSwGC2A4aHqj8cgdiJRDscseAkIE4G4hQ0cZDZhVBMCgCpD0TCIH4pEJcBcTmaXCCJZo+CUTAKRsEoGAX0BACSlx4M
+  </data>
+ </layer>
+ <layer name="map" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzt1DsLwjAUBeBWF9fq4qqCj7FGBEft5OigDj42FXyBgzp085d7LiRwCZqGNIvYCx8tCckhadIg+F4VQ5+vqnueL4SShXKOjAiqFmpFxs9kvAx9KTSgqVHz8raW4xooI4a+fI5AwECKWb/IkTFmppCwDGpbwwa2sHLMmWn4naR7d4YLXOHkmMGL1qWfAX7X254y+Bmg7zyHBSxhmJGj9sD036EModnBHg4wkTkd6EJPe6c9iELzOaeMRHOHBzzhlkHtgemcpx/G2dbRcVxRRf1rvQGu5yI0
+  </data>
+ </layer>
+ <layer name="pole" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRQGuQyEh7O5LpYMcoGAWjYPAAAD7vAMc=
+  </data>
+ </layer>
+ <layer name="lighting" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJyzZ2BgsEfDAQwQoA+l/bCooRSDgCuU7QrlU9uOUTyKhyoGAXcGBICxqWmHAZqZIKA3CPxOTwwr62CAVmUdOsCl1hVJjSsedZTYAQKgeEaPf2raQS42QDV+xKXHUTyKScUAg8KRKw==
+  </data>
+ </layer>
+</map>
