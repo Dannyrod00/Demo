@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: e4cba180e73ab934fbb4d971d3ccfdef
+timeCreated: 1463671887
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: letters_0
+    21300002: letters_1
+    21300004: letters_2
+    21300006: letters_3
+    21300008: letters_4
+    21300010: letters_5
+    21300012: letters_6
+    21300014: letters_7
+    21300016: letters_8
+    21300018: letters_9
+    21300020: letters_10
+    21300022: letters_11
+    21300024: letters_12
+    21300026: letters_13
+    21300028: letters_14
+    21300030: letters_15
+    21300032: letters_16
+    21300034: letters_17
+    21300036: letters_18
+    21300038: letters_19
+    21300040: letters_20
+    21300042: letters_21
+    21300044: letters_22
+    21300046: letters_23
+    21300048: letters_24
+    21300050: letters_25
+    21300052: letters_26
+    21300054: letters_27
+    21300056: letters_28
+    21300058: letters_29
+    21300060: letters_32
+    21300062: letters_33
+    21300064: letters_34
+    21300066: letters_35
+    21300068: letters_36
+    21300070: letters_37
+    21300072: letters_38
+    21300074: letters_39
+    21300076: letters_40
+    21300078: letters_41
+    21300080: letters_42
+    21300082: letters_43
+    21300084: letters_44
+    21300086: letters_45
+    21300088: letters_46
+    21300090: letters_47
+    21300092: letters_48
+    21300094: letters_49
+    21300096: letters_50
+    21300098: letters_51
+    21300100: letters_52
+    21300102: letters_53
+    21300104: letters_54
+    21300106: letters_55
+    21300108: letters_56
+    21300110: letters_57
+    21300112: letters_58
+    21300114: letters_59
+    21300116: letters_60
+    21300118: letters_61
+    21300120: letters_62
+    21300122: letters_63
+    21300124: letters_64
+    21300126: letters_65
+    21300128: letters_66
+    21300130: letters_67
+    21300132: letters_68
+    21300134: letters_69
+    21300136: letters_70
+    21300138: letters_71
+    21300140: letters_72
+    21300142: letters_73
+    21300144: letters_74
+    21300146: letters_75
+    21300148: letters_76
+    21300150: letters_77
+    21300152: letters_78
+    21300154: letters_79
+    21300156: letters_80
+    21300158: letters_81
+    21300160: letters_82
+    21300162: letters_83
+    21300164: letters_84
+    21300166: letters_85
+    21300168: letters_86
+    21300170: letters_87
+    21300172: letters_88
+    21300174: letters_89
+    21300176: letters_90
+    21300178: letters_91
+    21300180: letters_92
+    21300182: letters_93
+    21300184: letters_94
+    21300186: letters_95
+    21300188: letters_96
+    21300190: letters_97
+    21300192: letters_98
+    21300194: letters_99
+    21300196: letters_100
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: letters_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 316
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 316
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 316
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_12
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 316
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 268
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 268
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 263
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 268
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 268
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 268
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 268
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 268
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 268
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_24
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_25
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 268
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 220
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 220
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 220
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 220
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_32
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 220
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 220
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 220
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 220
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 215
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 220
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 215
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 220
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 220
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_42
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 220
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 167
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 172
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 172
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 172
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 172
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 172
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 172
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 172
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_52
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 167
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_53
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 172
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 124
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 124
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 124
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 124
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 124
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_60
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 124
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_61
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 124
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_62
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 124
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 124
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_66
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 59
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 91
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 64
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 65
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_71
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 85
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_72
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 85
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_73
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 102
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_75
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 90
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_77
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 90
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_78
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 73
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 59
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 10
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_86
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 10
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 16
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 36
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_89
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 14
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_90
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 31
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_91
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 31
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_92
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 10
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_93
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 7
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_94
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 10
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 23
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_96
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_97
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_98
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 10
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_99
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letters_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

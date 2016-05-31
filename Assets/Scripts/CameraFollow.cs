@@ -32,6 +32,7 @@ public class CameraFollow : MonoBehaviour {
 			hasStarted = true;
 		}
 		//camera boundries
+		if(GameController.Instance.location == "outside"){
 			if (player.transform.position.x >= minX) {
 				posX = Mathf.SmoothDamp ((transform.position.x), player.transform.position.x, ref velocity.x, smoothTimeX);
 			}
@@ -49,6 +50,11 @@ public class CameraFollow : MonoBehaviour {
 				posY = minY;
 			}
 			transform.position = new Vector3 (posX, posY, transform.position.z);
+		}else{
+			posX = Mathf.SmoothDamp ((transform.position.x), player.transform.position.x, ref velocity.x, smoothTimeX);
+			posY = Mathf.SmoothDamp ((transform.position.y), player.transform.position.y, ref velocity.y, smoothTimeY);
+			transform.position = new Vector3 (posX, posY, transform.position.z);
+		}
 		
 
 

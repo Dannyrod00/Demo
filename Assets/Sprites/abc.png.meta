@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: edafdd380c3849840af55885bf08880a
+timeCreated: 1463670951
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: abc_0
+    21300002: abc_1
+    21300004: abc_2
+    21300006: abc_3
+    21300008: abc_4
+    21300010: abc_5
+    21300012: abc_6
+    21300014: abc_7
+    21300016: abc_8
+    21300018: abc_9
+    21300020: abc_10
+    21300022: abc_11
+    21300024: abc_12
+    21300026: abc_13
+    21300028: abc_14
+    21300030: abc_15
+    21300032: abc_16
+    21300034: abc_17
+    21300036: abc_18
+    21300038: abc_19
+    21300040: abc_20
+    21300042: abc_21
+    21300044: abc_22
+    21300046: abc_23
+    21300048: abc_24
+    21300050: abc_25
+    21300052: abc_26
+    21300054: abc_27
+    21300056: abc_28
+    21300058: abc_29
+    21300060: abc_30
+    21300062: abc_31
+    21300064: abc_32
+    21300066: abc_33
+    21300068: abc_34
+    21300070: abc_35
+    21300072: abc_36
+    21300074: abc_37
+    21300076: abc_38
+    21300078: abc_39
+    21300080: abc_40
+    21300082: abc_41
+    21300084: abc_42
+    21300086: abc_43
+    21300088: abc_44
+    21300090: abc_45
+    21300092: abc_46
+    21300094: abc_47
+    21300096: abc_48
+    21300098: abc_49
+    21300100: abc_50
+    21300102: abc_51
+    21300104: abc_52
+    21300106: abc_53
+    21300108: abc_54
+    21300110: abc_55
+    21300112: abc_56
+    21300114: abc_57
+    21300116: abc_58
+    21300118: abc_59
+    21300120: abc_60
+    21300122: abc_61
+    21300124: abc_62
+    21300126: abc_63
+    21300128: abc_64
+    21300130: abc_65
+    21300132: abc_66
+    21300134: abc_67
+    21300136: abc_68
+    21300138: abc_69
+    21300140: abc_70
+    21300142: abc_71
+    21300144: abc_72
+    21300146: abc_73
+    21300148: abc_74
+    21300150: abc_75
+    21300152: abc_76
+    21300154: abc_77
+    21300156: abc_78
+    21300158: abc_79
+    21300160: abc_80
+    21300162: abc_81
+    21300164: abc_82
+    21300166: abc_83
+    21300168: abc_84
+    21300170: abc_85
+    21300172: abc_86
+    21300174: abc_87
+    21300176: abc_88
+    21300178: abc_89
+    21300180: abc_90
+    21300182: abc_91
+    21300184: abc_92
+    21300186: abc_93
+    21300188: abc_94
+    21300190: abc_95
+    21300192: abc_96
+    21300194: abc_97
+    21300196: abc_98
+    21300198: abc_99
+    21300200: abc_100
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: abc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 316
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 316
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 316
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 316
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_12
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 316
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 268
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 268
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 263
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 268
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 268
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 268
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 268
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 268
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 268
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_24
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_25
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 268
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 220
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 220
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 220
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 220
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 259
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 258
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_32
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 220
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 220
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 220
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 220
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 215
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 220
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 215
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 220
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 220
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_42
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 220
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 167
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 172
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 172
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 172
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 172
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 172
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 172
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 172
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_52
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 167
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_53
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 172
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 124
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 124
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 124
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 124
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 124
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_60
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 124
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_61
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 124
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_62
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 124
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 124
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_66
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 59
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 91
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 64
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 65
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_71
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 85
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_72
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 85
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_73
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 102
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_75
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 90
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_77
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 90
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_78
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 73
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 59
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 10
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_86
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 10
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 16
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 36
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_89
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 14
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_90
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 31
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_91
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 31
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_92
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 10
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_93
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 7
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_94
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 10
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 23
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_96
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_97
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_98
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 10
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_99
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abc_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
